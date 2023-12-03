@@ -1,6 +1,6 @@
 # Advanced Voice Chatbot
 
-Welcome to the repository of our cutting-edge Voice Chatbot, an innovative project integrating Gradio, Whisper, OpenAI, and Eleven Labs to create a highly interactive and intelligent voice assistant.
+Welcome to the repository of my Voice Chatbot, an innovative project integrating Gradio, Whisper, OpenAI, and Eleven Labs to create a highly interactive and intelligent voice assistant.
 
 ## Features
 
