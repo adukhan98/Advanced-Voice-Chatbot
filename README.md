@@ -21,6 +21,6 @@ Welcome to the repository of our cutting-edge Voice Chatbot, an innovative proje
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-repository.git
-cd your-repository
+git clone https://github.com/adukhan98/Advanced-Voice-Chatbot/tree/main
+cd Advanced-Voice-Chatbot
 # install dependencies
